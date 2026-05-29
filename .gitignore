@@ -1,0 +1,34 @@
+# User secrets
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Build artifacts
+*.spec.bak
+*.manifest
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# CTranslate2 model cache (downloaded at runtime)
+.cache/

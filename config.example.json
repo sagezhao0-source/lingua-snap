@@ -1,0 +1,24 @@
+{
+  "hotkey": "ctrl+shift+f",
+  "context_hotkey": "ctrl+shift+g",
+  "whisper_model": "tiny",
+  "whisper_device": "cpu",
+  "whisper_compute_type": "int8",
+  "llm_base_url": "https://api.deepseek.com",
+  "llm_api_key": "your-api-key-here",
+  "llm_model": "deepseek-chat",
+  "sample_rate": 16000,
+  "max_recording_sec": 30,
+  "min_recording_sec": 0.3,
+  "overlay_duration_sec": 10,
+  "tts_rate": 150,
+  "obsidian": {
+    "enabled": false,
+    "vault_path": "C:/path/to/your/obsidian/vault",
+    "subfolder": "lingua-snap",
+    "include_game_name": false,
+    "game_name": "",
+    "save_mode": "separate",
+    "attachments_subfolder": "attachments"
+  }
+}
